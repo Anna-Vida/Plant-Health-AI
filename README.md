@@ -520,6 +520,29 @@ These are user-interface progress indicators; they do not represent separate AI 
 
 ---
 
+## My Contribution
+
+**Role: Sole Developer / Frontend & AI Integration Developer**
+
+I designed and built **PlantScan AI independently from end to end**. I created the complete browser application, visual design, camera and upload workflows, Gemini integration, structured result handling, scan history, and error states.
+
+Key areas I implemented include:
+
+- Complete HTML/CSS/JavaScript interface
+- Responsive plant-health dashboard design
+- Drag-and-drop and file-upload workflows
+- Browser camera integration with MediaDevices
+- Canvas-based image capture and Base64 encoding
+- Google Gemini multimodal REST integration
+- Structured prompting and JSON response parsing
+- Plant identity, health, issue, and care-result rendering
+- Browser localStorage for API-key and scan-history persistence
+- Network, camera, API, and parsing error handling
+
+This repository is intentionally **client-side rather than a traditional full-stack architecture**, and I built the complete application independently as its sole developer.
+
+---
+
 ## Author
 
 **Anna Patricia B. Vida**
